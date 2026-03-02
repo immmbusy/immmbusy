@@ -23,7 +23,7 @@
 </td>
 <td width="40%" valign="top" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=transparent&hide_border=true&title_color=3388ff&icon_color=3388ff&text_color=ffffff" alt="Jian's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=transparent&hide_border=true&title_color=3388ff&icon_color=3388ff&text_color=ffffff&bg_color=00000000" alt="Jian's Stats" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=immmbusy&theme=transparent&hide_border=true&stroke=3388ff&ring=3388ff&fire=3388ff&currStreakLabel=3388ff" alt="Jian's Streak" />
 
@@ -34,4 +34,6 @@
 ---
 
 ### 📈 活跃趋势 | Activity
-![Jian's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=immmbusy&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immmbusy&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
