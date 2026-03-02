@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=3388ff&center=true&vCenter=true&width=600&lines=Hi+I'm+Jian+Q+Liang+👋;Full-stack+Developer" alt="DIYgod Style Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=3388ff&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Jian+Q+Liang+👋;Full-stack+Developer" alt="DIYgod Style Header" />
 </div>
 
 <table border="0" width="100%">
