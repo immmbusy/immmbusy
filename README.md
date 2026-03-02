@@ -4,7 +4,7 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 🚀 Full-stack Developer
 <p><i>无法掌控的事太多，尽力就好，一辈子就活这一次。</i></p>
@@ -21,12 +21,8 @@
 * 💻 Open source is a passion of mine. Check out my pinned repositories!
 
 </td>
-<td width="45%" valign="top" align="right">
+<td width="40%" valign="top" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=transparent&hide_border=true&title_color=3388ff&icon_color=3388ff&text_color=ffffff" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immmbusy&layout=compact&theme=transparent&hide_border=true&title_color=3388ff&text_color=ffffff" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=immmbusy&theme=transparent&hide_border=true&stroke=3388ff&ring=3388ff&fire=3388ff&currStreakLabel=3388ff" alt="Streak Card" />
 
 </td>
