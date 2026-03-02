@@ -1,9 +1,10 @@
 # Hi, I'm Jian Q Liang 👋
 
+![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3388ff&width=435&lines=Jian+Q+Liang;Full-stack+Developer;Welcome+to+my+profile!)
+
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>🚀 Full-stack Developer</h3>
       <p><i>无法掌控的事太多，尽力就好，一辈子就活这一次。</i></p>
       
       <br/>
