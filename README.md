@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=3388ff&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Jian+Q+Liang+👋;Full-stack+Developer" alt="DIYgod Style Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=3388ff&center=true&vCenter=true&width=800&height=100&lines=Hi+I'm+Jian+Q+Liang+👋;Full-stack+Developer" alt="Header" />
 </div>
 
 <table border="0" width="100%">
@@ -23,9 +23,9 @@
 </td>
 <td width="40%" valign="top" align="right">
 
-<img src="https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=transparent&hide_border=true&title_color=3388ff&icon_color=3388ff&text_color=ffffff&hide_title=false" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=transparent&hide_border=true&title_color=3388ff&icon_color=3388ff&text_color=ffffff" alt="Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immmbusy&layout=compact&theme=transparent&hide_border=true&title_color=3388ff&text_color=ffffff&hide_title=false" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immmbusy&layout=compact&theme=transparent&hide_border=true&title_color=3388ff&text_color=ffffff" alt="Top Langs" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=immmbusy&theme=transparent&hide_border=true&stroke=3388ff&ring=3388ff&fire=3388ff&currStreakLabel=3388ff" alt="Streak" />
 
