@@ -1,9 +1,26 @@
 # Hi, I'm Jian Q Liang 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Jian%20Q%20Liang&fontSize=70)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Full-stack+Developer;Welcome+to+my+profile!)
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Full-stack Developer</h3>
+      <p>无法掌控的事太多，尽力就好，一辈子就活这一次。</p>
+      <ul>
+      <!---
+        <li>Read my <a href="">Blog</a> to learn more about me</li>
+      -->
+        <li>Follow me on <a href="https://www.linkedin.com/in/jliangqq/">LinkedIn</a></li>
+      </ul>
+      <p>Open source is a passion of mine. Check out my pinned repositories above!</p>
+    </td>
+    <td width="45%" valign="top" align="right">
+      <img src="" alt="Jian's Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
-![Jian's Stats](https://github-readme-stats.vercel.app/api?username=immmbusy&show_icons=true&theme=dark)
+### Recent Contributions
+
+- ![Jian's GitHub streak]()
